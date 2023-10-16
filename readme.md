@@ -4,6 +4,8 @@ The best undetected shortcut menu ever!
 
 # Undetected with byfron. 
 
+Our script isnt really detected at all. May it be new yeah. But it doesnt matter because it works! 
+
 # UI Status
 
 - 🟩 | UI Is Fully Working / UND
