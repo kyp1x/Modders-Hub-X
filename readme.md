@@ -15,3 +15,5 @@ The best undetected shortcut menu ever!
 - 🟪 | Next Version is being worked on
 
 - ◼️ | UI is just broken.
+
+# Status: 🟩
