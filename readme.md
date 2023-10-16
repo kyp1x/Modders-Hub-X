@@ -18,4 +18,15 @@ Our script isnt really detected at all. May it be new yeah. But it doesnt matter
 
 - ◼️ | UI is just broken.
 
+- 👑 | New version is being worked on!
+
 # Status: 🟩
+
+# Version!
+
+- Version 1.00
+- V1.01 Soon!
+
+# Update Log
+
+Added 2 new scripts into this script.
