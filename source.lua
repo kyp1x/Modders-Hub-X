@@ -16,43 +16,8 @@ local Main = Window:MakeTab({
 })
 --
 local Section = Main:AddSection({
-	Name = "Credits"
+	Name = "This menu is.."
 })
 
-Main:AddLabel("Owner: noone904")
-Main:AddLabel("Script builder: nebula.gtag")
-Main:AddLabel("Discord Server: https://discord.gg/kp8sk4GCV4")
-
-
-local Shortcuts = Window:MakeTab({
-	Name = "Scripts",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-
-local Section = Shortcuts:AddSection({
-	Name = "Scripts"
-})
-
-Shortcuts:AddButton({
-	Name = "Prison Life Admin GUI!",
-	Callback = function()
-      	loadstring(game:HttpGet("https://raw.githubusercontent.com/H17S32/Tiger_Admin/main/MAIN"))() 
-  	end    
-})
-
-Shortcuts:AddButton({
-	Name = "Blade Ball Auto Parry",
-	Callback = function()
-      	getgenv().visualizer = true
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/RedCircleBlock"))()
-  	end    
-})
-
-Shortcuts:AddButton({
-	Name = "KAT Script - Swirl Hub",
-	Callback = function()
-      	getgenv().visualizer = true
-		loadstring(game:HttpGet("loadstring(game:HttpGet('https://raw.githubusercontent.com/FlmesCoding/SwirlHub/main/Loader.lua'))()"))()
-  	end    
-})
+Main:AddLabel("Modders Hub X isnt free. "https://discord.gg/pwX6sWV8DE" Join it and boost for premium access to this real script!)
+Main:AddLabel("Status: 🟩")
