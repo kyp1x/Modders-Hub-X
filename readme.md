@@ -6,7 +6,12 @@ The best undetected shortcut menu ever!
 
 # UI Status
 
-( 👑 = Up and undetected )
-( 🎁 = Some scripts are detected beware! )
-( 😒 = Menu is fully detected! do not use! ) 
-( ✌ = New UI Is being worked on. )
+- 🟩 | UI Is Fully Working / UND
+
+- 🟨 | Certain Scripts may be detected (Be aware)
+
+- 🟥 | Tons of Scripts are detected (Maybe be really aware.)
+
+- 🟪 | Next Version is being worked on
+
+- ◼️ | UI is just broken.
