@@ -38,3 +38,4 @@ Added 2 new scripts into this script.
 - 🟥 Broken script // Doesnt execute
 - 👑 Modders Hub X staff made script
 - 🔻 Detected by rbxl game. // Ingame anticheat
+- 🎁 Really destructive script. // Really overpowered
