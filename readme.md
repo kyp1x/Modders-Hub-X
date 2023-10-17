@@ -32,6 +32,9 @@ Our script isnt really detected at all. May it be new yeah. But it doesnt matter
 Added 2 new scripts into this script.
 
 
-# 2023-10-17
+# Script meanings!
 
-lost like half of the actual src.
+- 🔐 Key locked.
+- 🟥 Broken script // Doesnt execute
+- 👑 Modders Hub X staff made script
+- 🔻 Detected by rbxl game. // Ingame anticheat
